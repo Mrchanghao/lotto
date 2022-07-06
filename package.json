@@ -5,7 +5,7 @@
   "homepage": "https://Mrchanghao.github.io/lotto",
   "dependencies": {
     "gh-pages": "^2.0.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-reveal": "^1.2.2",
